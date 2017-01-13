@@ -1,0 +1,28 @@
+{
+  "name": "node_express_server_boiler",
+  "version": "1.0.0",
+  "description": "node and express server boiler plate",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tasha-GitHub/Node_Express_Server_Boiler_Plate.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Tasha Casagni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tasha-GitHub/Node_Express_Server_Boiler_Plate/issues"
+  },
+  "homepage": "https://github.com/Tasha-GitHub/Node_Express_Server_Boiler_Plate#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "path": "^0.12.7"
+  }
+}
